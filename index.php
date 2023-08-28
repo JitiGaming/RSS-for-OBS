@@ -11,13 +11,13 @@
 ini_set('display_errors',0);
 $feeds = array(
 
-            'https://www.canardpc.com/feed' => 'Canard PC',
-           	'https://www.xboxygen.com/spip.php?page=backend' => 'Xboxygen',
-			'https://www.liberation.fr/arc/outboundfeeds/rss-all/category/culture/jeux-video/?outputType=xml' => 'Libération',
-			'https://kotaku.com/rss' => 'Kotaku',
-			'https://insider-gaming.com/feed' => 'Insider Gaming',
-			'https://www.eurogamer.net/feed' => 'Eurogamer',
-			'https://jiti.me/feed' => 'Jiti.Me'
+	'https://www.canardpc.com/feed' => 'Canard PC',
+	'https://www.xboxygen.com/spip.php?page=backend' => 'Xboxygen',
+	'https://www.liberation.fr/arc/outboundfeeds/rss-all/category/culture/jeux-video/?outputType=xml' => 'Libération',
+	'https://kotaku.com/rss' => 'Kotaku',
+	'https://insider-gaming.com/feed' => 'Insider Gaming',
+	'https://www.eurogamer.net/feed' => 'Eurogamer',
+	'https://jiti.me/feed' => 'Jiti.Me'
 			
 		);
 
